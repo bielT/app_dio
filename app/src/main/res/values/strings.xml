@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">dio</string>
+    <string name="title">Titulo</string>
+    <string name="date">Data</string>
+    <string name="hour">Hora</string>
+    <string name="create_task">Cria tarefa</string>
+    <string name="cancel">Cancelar</string>
+    <string name="task">Tarefas</string>
+    <string name="new_task">Nova tarefa</string>
+    <string name="edit">Editar</string>
+    <string name="edit_task">Editar Tarefa</string>
+    <string name="delete">Deletar</string>
+    <string name="description">Descrição</string>
+    <string name="title_activity_view_task">ActivityViewTask</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Warning">Preencha todos os campos</string>
+</resources>
